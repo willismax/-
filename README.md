@@ -1,8 +1,9 @@
-# -
+# business-ethics
 # 勞資倫理授課教材
 - https://drive.google.com/file/d/0B7YzkbDM3_jZeEdrYWNOZ1hGQzg/view?usp=sharing
 - 適用範圍：台灣
 - 適用對象：準備投入職場生力軍
+- 授課時數：講述法2小時、互動討論：3小時
 
 ## 勞資倫理
 - 前言
