@@ -2,14 +2,18 @@
 slideOptions:
   transition: slide
 ---
-###### tags: `WDA` `勞資倫理` `勞動法令`
-
 # WDA-勞資倫理
+
 >[name=Yu-Wei Chen] :email: willis@wda.gov.tw 
 
 ![](https://i.imgur.com/aRRjvBQ.png)
+###### tags: `WDA` `勞資倫理` `勞動法令`
 
-----
+- 以HackMD閱讀:https://hackmd.io/@wiimax/SkG2g62fW
+- 以GitHub閱讀:https://github.com/willismax/business-ethics
+
+
+---
 
 
 課程目標
@@ -18,11 +22,15 @@ slideOptions:
 > - [ ] 能於再次就業前，能夠有基本勞動法令變化。
 > - [ ] 提示未來遭遇勞資疑義時，可以協助的管道資源。
 
----
+----
 
 ## 課程大綱
 [TOC]
 
+
+
+---
+{%pdf https://drive.google.com/file/d/1Wi0HAQbTzXDo5KZZA6SHjPR3JyRPGCLS/view?usp=sharing %}
 
 ---
 
@@ -132,7 +140,10 @@ slideOptions:
 
 ----
 - 4-7 其他制度變化
-    - [2019新制上路@讀讀](http://www.readthis.one/post11208171045594?utm_source=lineshare&utm_medium=top)
+    - [2019新制上路 - 讀讀](http://www.readthis.one/post11208171045594?utm_source=lineshare&utm_medium=top)
+    - [勞動事件法準備上路 - 聯合晚報](https://udn.com/news/story/7238/4143200)
+        - [法源](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010064)
+        - ![](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/11/04/6/7023924.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=300&exp=3600)
 
 
 
