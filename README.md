@@ -30,7 +30,7 @@ slideOptions:
 
 
 ---
-{%pdf https://drive.google.com/file/d/1Wi0HAQbTzXDo5KZZA6SHjPR3JyRPGCLS/view?usp=sharing %}
+[簡報連結(v1.8)](https://drive.google.com/file/d/1Wi0HAQbTzXDo5KZZA6SHjPR3JyRPGCLS/view?usp=sharing)
 
 ---
 
@@ -144,6 +144,7 @@ slideOptions:
     - [勞動事件法準備上路 - 聯合晚報](https://udn.com/news/story/7238/4143200)
         - [法源](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010064)
         - ![](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/11/04/6/7023924.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=300&exp=3600)
+        - [圖解 - 聯合晚報](https://theme.udn.com/theme/story/7490/3771763)
 
 
 
