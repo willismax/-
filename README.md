@@ -6,11 +6,11 @@ slideOptions:
 
 >[name=Yu-Wei Chen] :email: willis@wda.gov.tw 
 
+
 ![](https://i.imgur.com/aRRjvBQ.png)
 ###### tags: `WDA` `勞資倫理` `勞動法令`
 
-- 以HackMD閱讀:https://hackmd.io/@wiimax/SkG2g62fW
-- 以GitHub閱讀:https://github.com/willismax/business-ethics
+- 本文件連結:https://hackmd.io/@wiimax/business-ethics
 
 
 ---
@@ -30,7 +30,10 @@ slideOptions:
 
 
 ---
+
+:::info
 [簡報連結(v1.8)](https://drive.google.com/file/d/1Wi0HAQbTzXDo5KZZA6SHjPR3JyRPGCLS/view?usp=sharing)
+:::
 
 ---
 
@@ -40,13 +43,9 @@ slideOptions:
 - 1.2 三年後你的工作還在嗎？ 
     - [職涯指引@1111](https://career.1111.com.tw/careerroute/intro.aspx) 
     - [書@博客來](https://www.books.com.tw/products/0010641668?gclid=Cj0KCQiA6JjgBRDbARIsANfu58H-p3-As3JAC-GV3lH8_twgb06FTGFmMvBYodJiLsVn_pNAJzpfnPYaAtLAEALw_wcB)
-
 - 1.3 專業始能稱職，熱情始能卓越:exclamation: 
-
 - 1.4 成功的人在逆境中看到<span><!-- .element: class="fragment highlight-red" -->機會</span>，失敗的人在機會中看到<span><!-- .element: class="fragment highlight-blue" -->困難</span>
-
 - 1.5 思考格局決定人生高度，您是被需要還是被取代? 
-
 
 ---
 
@@ -73,15 +72,10 @@ slideOptions:
 
 ## 3. 勞資倫理與案例
 
-----
-
 - [案例影片(青輔會)](https://www.youtube.com/embed/9cL-N2HGFBU?rel=0)
-
-----
 
 - 3-2 當責
 
-----
 - 3-3 工業倫理
 
     - 3-3-1 資 -> 資/勞/消
@@ -106,20 +100,13 @@ slideOptions:
 
 - 4-1 基本工資 
     - [說明@勞動部](https://www.mol.gov.tw/topic/3067/5990/5999/) 
-----
 - 4-2 勞基法修法 
     - [說明@勞動部](https://www.mol.gov.tw/topic/34395/) / [懶人包@發展署](https://www.wda.gov.tw/News_Content.aspx?n=8DC97C01DCF594B0&sms=B765994FC1B39759&s=E3ED33F423CF9F61)
-
-----
-
 - 4-3 薪資科目 
     - [說明@勞動部](https://www.mol.gov.tw/topic/3067/5991/6008/19156/) / [法條](https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?lsid=FL014930&flno=2)
     - [經常性工資、延長工資定義＠勞動部](https://statdb.mol.gov.tw/html/com/st0302.htm)
         - 經常性薪資：
         - > 「經常性薪資」指每月給付受僱員工之工作報酬：包括本薪及按月給付之固定津貼、交通費、膳食費、水電費、按月發放之工作(生產、績效、業績)獎金及全勤獎金等。其以實物方式給付者，應按時價折值計入；以上均不應扣除應付所得稅、保險費及工會會費。
-
-----
-
 - 4-4 調動五原則 
     > - 不得有不當動機與目的調動
     > - 不可調降工資或其他勞動條件
@@ -129,9 +116,6 @@ slideOptions:
     - [說明@勞動部](https://www.mol.gov.tw/service/19851/19852/19859/14647/) 
     - [企業調動員工不得違反5原則@自由時報](https://ec.ltn.com.tw/article/paper/1296556)
     - [調職符合原則 勞工不能拒絕@自由時報](https://m.ltn.com.tw/news/weeklybiz/paper/1296557)
-
-----
-
 - 4-5 責任制 
     - [勞基法84-1@勞動部](https://www.mol.gov.tw/topic/3067/14530/19536/) / [適用表](https://www.mol.gov.tw/media/5758696/%E5%8B%9E%E5%8B%95%E5%9F%BA%E6%BA%96%E6%B3%95%E7%AC%AC84%E6%A2%9D%E4%B9%8B1%E5%B7%A5%E4%BD%9C%E8%80%85.pdf)
     - [「責任制」為何叫血汗條款？@聯合晚報](https://udn.com/news/story/7269/3703744)
@@ -139,19 +123,20 @@ slideOptions:
     - 延伸閱讀: [2016華航空服員罷工@wiki](https://zh.wikipedia.org/wiki/2016%E5%B9%B4%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA%E7%A9%BA%E6%9C%8D%E5%93%A1%E7%BD%B7%E5%B7%A5%E4%BA%8B%E4%BB%B6) / [懶人包@PPT](https://www.ptt.cc/bbs/Gossiping/M.1466701116.A.483.html)
 
 ----
-- 4-7 其他制度變化
-    - [2019新制上路 - 讀讀](http://www.readthis.one/post11208171045594?utm_source=lineshare&utm_medium=top)
-    - [勞動事件法準備上路 - 聯合晚報](https://udn.com/news/story/7238/4143200)
+- 4-6 其他制度變化
+   - [勞動事件法準備上路 - 聯合晚報](https://udn.com/news/story/7238/4143200)
         - [法源](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010064)
         - ![](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/11/04/6/7023924.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=300&exp=3600)
         - [圖解 - 聯合晚報](https://theme.udn.com/theme/story/7490/3771763)
 
 
 
-- 4-6 勞保與勞退 
+- 4-7 勞保與勞退 
     - [說明@勞保局](https://www.bli.gov.tw/sub.aspx?a=xTzPGZpitfk%3D) / [試算表@勞保局](https://www.bli.gov.tw/0014163.html) / [勞工三大退休保障@勞保局](https://www.bli.gov.tw/Files/12845)
     - [勞保年金去年虧損、7年後破產](https://www.thenewslens.com/article/112782)
     - [勞保.勞退大不同 退休月領3萬怎麼做?](https://www.youtube.com/watch?v=UqpIMX6hn1Q)
+    - [最常誤會的勞保規定](https://tw.appledaily.com/headline/20200824/B4QK2MSZN5AKPD6JLXZCJ76LXI/)
+       ![](https://i.imgur.com/JHJHxGj.png)
 
 ----
 
@@ -174,9 +159,12 @@ slideOptions:
 ----
 
 - 5-3 勞檢違法查詢 
-    - [求職小幫手(已關閉)@G0V](http://jobhelper.g0v.ronny.tw/) 
-    - [違反勞動法令事業單位(雇主）查詢系統@勞動部](https://announcement.mol.gov.tw/)
+    - [~~求職小幫手(已關閉)@G0V~~](http://jobhelper.g0v.ronny.tw/) 
+:::danger
 
+
+- [**違反勞動法令事業單位(雇主）查詢系統** @勞動部](https://announcement.mol.gov.tw/):100:
+:::     
 ----
 - 5-4 集體勞資爭議
     - [罷工流程相關規定@蘋果日報](https://img.appledaily.com.tw/images/twapple/640pix/20180728/LA01/LA01_003.jpg)
